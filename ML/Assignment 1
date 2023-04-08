@@ -1,0 +1,20 @@
+Q1)Explain foll with example:
+1)Artificial Intelligence:
+  AI stands for Artificial Intelligence, which refers to the ability of machines to perform tasks that typically require human intelligence, such as learning, 
+  problem-solving, decision-making, and perception.Artificial intelligence involves replicating human intellectual processes through machines, especially computers.
+  Eg:One example of AI is image recognition, which involves training a machine to recognize objects, patterns, or features in images.
+  
+2)Machine learning:
+  Machine learning (ML) is a subset of AI that involves training algorithms to make predictions or decisions based on data. 
+  Eg:Spam filtering in email.
+  In this scenario, a machine learning algorithm is trained on a dataset of labeled emails (spam or not spam) and uses this information to predict whether new, unseen 
+  emails are spam or not. The algorithm learns patterns and features in the text of the emails that are associated with spam, such as certain keywords or phrases,
+  and uses this information to make predictions.
+  
+3)Deep learning:
+  Deep learning is a subfield of machine learning that uses neural networks with many layers to learn complex patterns in data. Deep learning algorithms are 
+  inspired by the structure of the human brain.
+  Eg:Image recognition where a deep learning algorithm such as a convolutional neural network (CNN) is trained on a large dataset of labeled images. 
+  The algorithm learns to identify patterns and features in the images at different levels of abstraction, such as edges, textures, shapes, and objects.
+  
+Q2)
